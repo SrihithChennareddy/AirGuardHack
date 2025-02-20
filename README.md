@@ -1,1 +1,1 @@
-Sky Scan Accessiblity Air Quality Project for EmP Hackfest 2025
+AirGuard - Air Quality Project for Hackathon 2025
